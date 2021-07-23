@@ -1,0 +1,1 @@
+"# angular-openweathermap-app"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/almoril00/angular-openweathermap-app.gitgit push -u origin main
