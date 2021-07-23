@@ -99,10 +99,9 @@ typings/
 # TernJS port file
 .tern-port
 
-# SUBIR 'dist' para publicar online
 # Nuxt.js build / generate output
 .nuxt
-#dist
+dist
 
 # Recursos
 _recursos/
