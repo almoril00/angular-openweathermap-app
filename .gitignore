@@ -102,7 +102,7 @@ typings/
 # SUBIR 'dist' para publicar online
 # Nuxt.js build / generate output
 .nuxt
-dist
+#dist
 
 # Recursos
 _recursos/
